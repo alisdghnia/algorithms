@@ -1,1 +1,1 @@
-# DS-ML-Programming-Class
+# Algorithms and Data Structures course assignments and projects
